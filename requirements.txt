@@ -35,6 +35,8 @@ setuptools>=65.5.0
 sphinx
 sphinx_rtd_theme
 
+# for portfolio optimization
+rlportfolio>=0.2.0
 
 SQLAlchemy
 stable-baselines3[extra]
